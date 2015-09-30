@@ -1,5 +1,7 @@
 # ActiveAdmin::Mongoid
 
+[![Join the chat at https://gitter.im/luxerama/activeadmin-mongoid](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/luxerama/activeadmin-mongoid?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 ActiveAdmin hacks to support Mongoid.
 Some ActiveAdmin features are disabled:
 
